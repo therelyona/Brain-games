@@ -17,3 +17,11 @@ $ brain-even
 ```
 It is necessary to determine whether this number is even or odd.
 Demonstration: <a href="https://asciinema.org/a/OJI7FQ7m4sIw66Uxi7gk1v8HH" target="_blank"><img src="https://asciinema.org/a/OJI7FQ7m4sIw66Uxi7gk1v8HH.svg" /></a>
+Brain calc
+--------------------------  
+You can start the game by entering the command:
+ ```bash
+$ brain-calc
+```
+It is necessary to solve arithmetic expressions.
+Demonstration: <a href="https://asciinema.org/a/iY1U4vO0puSkoCeVpmOJzIG3J" target="_blank"><img src="https://asciinema.org/a/iY1U4vO0puSkoCeVpmOJzIG3J.svg" /></a>
