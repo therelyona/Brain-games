@@ -50,3 +50,13 @@ $ brain-progression
 You need to find the missing number in the arithmetic progression.
 Demonstration: 
 [![asciicast](https://asciinema.org/a/fhuX36s5rYA9yW7SuEzEwZzXT.svg)](https://asciinema.org/a/fhuX36s5rYA9yW7SuEzEwZzXT)
+
+Brain prime
+--------------------------  
+You can start the game by entering the command:
+ ```bash
+$ brain-prime
+```
+It is necessary to determine whether the number is prime.
+Demonstration: 
+[![asciicast](https://asciinema.org/a/oBzUPxQcIIQG0qxkZV0ePacBS.svg)](https://asciinema.org/a/oBzUPxQcIIQG0qxkZV0ePacBS)
