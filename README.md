@@ -40,3 +40,13 @@ $ brain-gcd
 We need to find the largest common divisor.
 Demonstration: 
 [![asciicast](https://asciinema.org/a/HjBZPc1JVTSwOm53ccL7DPzy0.svg)](https://asciinema.org/a/HjBZPc1JVTSwOm53ccL7DPzy0)
+
+Brain progression
+--------------------------  
+You can start the game by entering the command:
+ ```bash
+$ brain-progression
+```
+You need to find the missing number in the arithmetic progression.
+Demonstration: 
+[![asciicast](https://asciinema.org/a/fhuX36s5rYA9yW7SuEzEwZzXT.svg)](https://asciinema.org/a/fhuX36s5rYA9yW7SuEzEwZzXT)
