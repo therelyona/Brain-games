@@ -1,4 +1,4 @@
-import generateRandomNumber from "../generateRandomNumber.js";
+import generateRandomNumber from '../generateRandomNumber.js';
 
 const conditionGame = 'What number is missing in the progression?';
 

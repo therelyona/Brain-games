@@ -1,4 +1,4 @@
-import generateRandomNumber from "../generateRandomNumber.js";
+import generateRandomNumber from '../generateRandomNumber.js';
 
 const conditionGame = 'Find the greatest common divisor of given numbers.';
 
