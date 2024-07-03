@@ -16,7 +16,7 @@ You can start the game by entering the command:
 $ brain-even
 ```
 It is necessary to determine whether this number is even or odd.
-Demonstration: <a href="https://asciinema.org/a/OJI7FQ7m4sIw66Uxi7gk1v8HH" target="_blank"><img src="https://asciinema.org/a/OJI7FQ7m4sIw66Uxi7gk1v8HH.svg" /></a>
+Demonstration: [![asciicast](https://asciinema.org/a/OJI7FQ7m4sIw66Uxi7gk1v8HH.svg)](https://asciinema.org/a/OJI7FQ7m4sIw66Uxi7gk1v8HH)
 Brain calc
 --------------------------  
 You can start the game by entering the command:
@@ -24,4 +24,12 @@ You can start the game by entering the command:
 $ brain-calc
 ```
 It is necessary to solve arithmetic expressions.
-Demonstration: <a href="https://asciinema.org/a/iY1U4vO0puSkoCeVpmOJzIG3J" target="_blank"><img src="https://asciinema.org/a/iY1U4vO0puSkoCeVpmOJzIG3J.svg" /></a>
+Demonstration: [![asciicast](https://asciinema.org/a/iY1U4vO0puSkoCeVpmOJzIG3J.svg)](https://asciinema.org/a/iY1U4vO0puSkoCeVpmOJzIG3J)
+Brain gcd
+--------------------------  
+You can start the game by entering the command:
+ ```bash
+$ brain-gcd
+```
+We need to find the largest common divisor.
+Demonstration: [![asciicast](https://asciinema.org/a/HjBZPc1JVTSwOm53ccL7DPzy0.svg)](https://asciinema.org/a/HjBZPc1JVTSwOm53ccL7DPzy0)
