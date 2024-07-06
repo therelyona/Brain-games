@@ -2,8 +2,7 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "type": "module",
-  "description": "[![Actions Status](https://github.com/therelyona/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/therelyona/frontend-project-44/actions)",
-  "main": "index.js",
+  "description": "Игры разума — это набор из пяти консольных игр. В каждой игре пользователю задаются вопросы, на которые нужно правильно ответить. После трёх верных ответов подряд игра считается пройденной.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,15 +20,8 @@
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
-    "@eslint/create-config": "^1.0.0",
-    "@eslint/eslintrc": "^3.1.0",
-    "@eslint/js": "^9.6.0",
-    "eslint": "^8.57.0",
+    "eslint": "^8.56.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-jsx-a11y": "^6.9.0",
-    "eslint-plugin-react": "^7.34.3",
-    "eslint-plugin-react-hooks": "^4.6.2",
-    "globals": "^15.8.0"
+    "eslint-plugin-import": "^2.29.1"
   }
 }
